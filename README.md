@@ -1,4 +1,4 @@
-![alt text](https://github.com/AveryGriffin/BrainMNIST/blob/master/mechanical-2033446_1920-300x300.PNG)
+![alt text](https://github.com/AveryGriffin/BrainMNIST/blob/master/mechanical-2033446_1920-300x300.jpg)
 
 Hello, there.
 
